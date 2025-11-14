@@ -1,3 +1,14 @@
+# Cookiecutter-Django — Docs Fork (maintained by Riddhi Jain)
+
+This is **my curated fork** of the original [cookiecutter-django](https://github.com/cookiecutter/cookiecutter-django)
+project.  
+**Goal:** improve documentation, structure, and DevOps notes while keeping
+the original source code unchanged.
+
+> All application code and license remain property of the upstream authors;
+> this fork adds only documentation and organizational updates.
+
+
 # Cookiecutter Django
 
 [![Build Status](https://img.shields.io/github/actions/workflow/status/cookiecutter/cookiecutter-django/ci.yml?branch=main)](https://github.com/cookiecutter/cookiecutter-django/actions/workflows/ci.yml?query=branch%3Amain)
@@ -259,3 +270,8 @@ experience better.
 - [How to create a Django Application using Cookiecutter and Django 1.8](https://www.swapps.io/blog/how-to-create-a-django-application-using-cookiecutter-and-django-1-8/) - Sept. 12, 2015
 
 Have a blog or online publication? Write about your cookiecutter-django tips and tricks, then send us a pull request with the link.
+
+## Attribution
+Forked from the awesome [cookiecutter-django](https://github.com/cookiecutter/cookiecutter-django) project.  
+Original license: BSD-3-Clause — retained here verbatim.
+
